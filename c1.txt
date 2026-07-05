@@ -1,0 +1,3 @@
+line1 = default
+line2 = shared
+line3 = default
