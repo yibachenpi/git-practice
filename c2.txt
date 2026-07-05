@@ -1,0 +1,2 @@
+api_url = https://api.company.com/v1
+timeout = 30
