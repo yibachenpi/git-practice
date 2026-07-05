@@ -1,2 +1,2 @@
-api_url = https://api.company.com/v1
+api_url = https://api.company.com/v2-dev
 timeout = 30
